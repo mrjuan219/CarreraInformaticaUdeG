@@ -1,0 +1,32 @@
+struct nodo
+{
+        string nombre;
+        int id;      
+};
+ 
+nodo *pIni = NULL; 
+nodo *pFin;
+nodo *p;
+
+void eliminar()
+{
+     system("cls");
+     p = pIni;
+     if(p!=NULL)
+     {
+         nodo *aux;
+         aux = new nodo;
+         while(p->siguiente != NULL)
+                         {       
+                             aux = pIni;
+                             pIni = pIni->siguiente;
+                             free(aux);
+                             p = p->siguiente;                         
+                         }
+         cout<<"eliminado";                
+         cont = 0;     
+ 
+    }else   
+       cout<<"No se encontro";      
+}
+}

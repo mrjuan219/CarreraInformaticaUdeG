@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Formulario</title>
+    </head>
+    <body>
+        <form name="forma01" method="POST" action="recibe.php">
+            <input type="text" name="user" id="user" placeholder="Escribe tu usuario" autocomplete="off">
+            <br>
+            <input type="text" name="pass" id="pass" placeholder="Escribe tu contraseña" autocomplete="off">
+            <br>
+            <input type="text" name="correo" id="correo" placeholder="Escribe tu correo" autocomplete="off">
+            <br>
+            <select name="rol" id="rol">
+                <option value="">Selecciona</option>
+                <option value="Usuario">gerente</option>
+                <option value="Administrador">ejecutivo</option>
+            </select>
+            <br>
+            <input type="hidden" value="123">
+            <input type="submit" value="Entrar" name="boton1" id="boton1" onclick="validateForm(); return false;">
+        </form>
+        <script src="validateForm.js"></script>
+    </body>
+</html>

@@ -1,0 +1,36 @@
+.contaner-table{
+    width: 100%;
+    padding: 10%;
+}
+table, th, td{
+    border: 1px solid black;
+}
+table{
+    width: 80%;
+}
+.header-table{
+    height: 50px;
+}
+.td-cont-img{
+    padding: 2%;
+    width: 40%;
+}
+.img-branch{
+    position: relative;
+    left: 40%;
+}
+.td-cont-link{
+    text-align: center;
+    width: 40%;
+}
+.remove-btn{
+
+    color: white;
+    width: 40%;
+    height: 30px;
+    position: relative;
+    left: 30%;
+}
+.remove-btn:hover{
+    cursor: pointer;
+}

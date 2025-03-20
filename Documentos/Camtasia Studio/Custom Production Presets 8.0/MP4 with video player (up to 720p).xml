@@ -1,0 +1,311 @@
+﻿<ConfigArchive>
+  <ProfileName>MP4 with video player (up to 720p)</ProfileName>
+  <ProfileDesc>Produce an MP4 video with a player.
+  
+        -	If Editing Dimensions are larger than
+	720p, the video is automatically
+	scaled down during production.
+        -	If Editing Dimensions are smaller than
+	720p, the video produces at Editing
+	Dimensions.
+        -	Video plays on most desktop browsers
+	and many newer mobile devices.
+        -	Interactive features such as TOC,
+	closed captions, quizzes, and hotspots
+	are included in the video.
+        -	With this preset, the controller,
+	video quality options, or video
+	features cannot be modified.  To
+	modify the video or audio settings or
+	to select which features to include in
+	the video, choose instead the Custom
+	production settings option.</ProfileDesc>
+  <ProfileUserCreated>0</ProfileUserCreated>
+  <Version>2.0</Version>
+  <ProjMetadataSize>0</ProjMetadataSize>
+  <ProductionFormat>14</ProductionFormat>
+  <ProfileNumber>3</ProfileNumber>
+  <StdSizeIndex>0</StdSizeIndex>
+  <MovieWidth>640</MovieWidth>
+  <MovieHeight>480</MovieHeight>
+  <StretchToFit>1</StretchToFit>
+  <MaintainAspectRatio>1</MaintainAspectRatio>
+  <MaintainEmbedAspectRatio>1</MaintainEmbedAspectRatio>
+  <MovieSize>4</MovieSize>
+  <Title></Title>
+  <Author></Author>
+  <Copyright></Copyright>
+  <Description></Description>
+  <VideoCompressor>TechSmith Screen Codec 2</VideoCompressor>
+  <AudioCompressor>PCM</AudioCompressor>
+  <PIPBGImage></PIPBGImage>
+  <Interleave>1</Interleave>
+  <BackgroundColor>0x00000000</BackgroundColor>
+  <InterleaveRate>1</InterleaveRate>
+  <InterleaveByFrames>0</InterleaveByFrames>
+  <AviHandler>0x32637374</AviHandler>
+  <AviQuality>-1</AviQuality>
+  <AviKeyframeRate>800</AviKeyframeRate>
+  <AviDataRate>0</AviDataRate>
+  <AviFRRate>0x00000000</AviFRRate>
+  <AviFRScale>0x00000001</AviFRScale>
+  <AviFRTime>0x00000001</AviFRTime>
+  <BitsPixel>0</BitsPixel>
+  <AviEncodeAudio>1</AviEncodeAudio>
+  <M4VSubtype>2</M4VSubtype>
+  <MoviePresetSize>0</MoviePresetSize>
+  <AutomaticFramerate>1</AutomaticFramerate>
+  <CustomFramerate>10</CustomFramerate>
+  <AddMP3FileToProduction>0</AddMP3FileToProduction>
+  <AddIPODFileToProduction>0</AddIPODFileToProduction>
+  <AddPPTFileToProduction>0</AddPPTFileToProduction>
+  <PPTFileToAddToProduction></PPTFileToAddToProduction>
+  <MultiFileOutpytStyle>2</MultiFileOutpytStyle>
+  <IncludeWatermark>0</IncludeWatermark>
+  <WatermarkPath>C:\Program Files (x86)\TechSmith\Camtasia Studio 8\Media\Studio\Images\watermark.png</WatermarkPath>
+  <WatermarkScale>20</WatermarkScale>
+  <WatermarkOpacity>50</WatermarkOpacity>
+  <WatermarkHorzOffset>5</WatermarkHorzOffset>
+  <WatermarkVertOffset>5</WatermarkVertOffset>
+  <WatermarkUseTransparentColor>0</WatermarkUseTransparentColor>
+  <WatermarkKeepAspectRatio>1</WatermarkKeepAspectRatio>
+  <WatermarkUseSmoothScaling>1</WatermarkUseSmoothScaling>
+  <WatermarkPreserveImageSize>0</WatermarkPreserveImageSize>
+  <WatermarkColorTransparent>0x00FFFFFF</WatermarkColorTransparent>
+  <WatermarkPlacement>8</WatermarkPlacement>
+  <WatermarkEmboss>0</WatermarkEmboss>
+  <WatermarkEmbossDepth>20</WatermarkEmbossDepth>
+  <WatermarkEmbossDirectfion>0</WatermarkEmbossDirectfion>
+  <MaxImageWidth>1280</MaxImageWidth>
+  <MaxImageHeight>1024</MaxImageHeight>
+  <CaptionType>1</CaptionType>
+  <SCORMVersion>0</SCORMVersion>
+  <HTMLAlignmentName>1</HTMLAlignmentName>
+  <TOCType>2</TOCType>
+  <ThumbnailSize>0</ThumbnailSize>
+  <TOCThumbnailType>1</TOCThumbnailType>
+  <AviAudioFmt>AQABACJWAABErAAAAgAQAAAA</AviAudioFmt>
+  <Mp3AudioFmt>AAcBAESsAACAPgAAAQAAAAwAYwAEAAAAoQEBAAAA</Mp3AudioFmt>
+  <AdditionalMP3Format>5</AdditionalMP3Format>
+  <ProducedPPBefore>0</ProducedPPBefore>
+  <AutoPostProduction>0</AutoPostProduction>
+  <AutoFTPUploadPostProduction>0</AutoFTPUploadPostProduction>
+  <StartLogoImage></StartLogoImage>
+  <EndLogoImage></EndLogoImage>
+  <FullScreenOption>1</FullScreenOption>
+  <TOCLogoImage></TOCLogoImage>
+  <AboutLogoImage></AboutLogoImage>
+  <AboutTitleBarLogoImage></AboutTitleBarLogoImage>
+  <AboutBoxUseText>1</AboutBoxUseText>
+  <AboutTitleBarText></AboutTitleBarText>
+  <TOCTitleText></TOCTitleText>
+  <SwfAudioFormat>2</SwfAudioFormat>
+  <SwfPcmFormat>0</SwfPcmFormat>
+  <SwfAdpcmFormat>0</SwfAdpcmFormat>
+  <SwfMp3Format>5</SwfMp3Format>
+  <SwfPlaybackControls>2</SwfPlaybackControls>
+  <SwfPauseAtStart>0</SwfPauseAtStart>
+  <SwfAllowResizing>0</SwfAllowResizing>
+  <SwfAllowResizingSSWF>1</SwfAllowResizingSSWF>
+  <SwfPreloadAdvanced>1</SwfPreloadAdvanced>
+  <SwfEndAction>0</SwfEndAction>
+  <SwfEndActionUrl>http://</SwfEndActionUrl>
+  <SwfPreloadUrlBasic>Default Screen</SwfPreloadUrlBasic>
+  <SwfPreloadUrlAdvanced>Default Movie</SwfPreloadUrlAdvanced>
+  <SwfClassicControlColor>0x00C0C0C0</SwfClassicControlColor>
+  <SwfUnifiedControlColor>0x00272727</SwfUnifiedControlColor>
+  <SwfShowAboutBtn>1</SwfShowAboutBtn>
+  <SwfAboutBoxTxt></SwfAboutBoxTxt>
+  <SwfInfoBoxTxt></SwfInfoBoxTxt>
+  <SwfInfoBoxSelected>1</SwfInfoBoxSelected>
+  <SwfCCInitiallyVisible>1</SwfCCInitiallyVisible>
+  <SwfCCInitiallyVisibleSSWF>0</SwfCCInitiallyVisibleSSWF>
+  <SwfShowMovieDuration>1</SwfShowMovieDuration>
+  <SwfShowTimeElapsed>1</SwfShowTimeElapsed>
+  <SwfTimeDisplayFormat>MM:SS</SwfTimeDisplayFormat>
+  <SwfTimeFont>Arial</SwfTimeFont>
+  <SwfTimeFontColor>0x00000000</SwfTimeFontColor>
+  <SwfMatchPreloadMovieSize>0</SwfMatchPreloadMovieSize>
+  <SwfMainMovieLoadPercent>10</SwfMainMovieLoadPercent>
+  <SwfPreloadMinDisplayTime>3</SwfPreloadMinDisplayTime>
+  <JPEGQuality>50</JPEGQuality>
+  <EncodeJPEG>0</EncodeJPEG>
+  <SwfQuizIndentPercent>10</SwfQuizIndentPercent>
+  <SwfTargetVersion>8</SwfTargetVersion>
+  <Controller>4</Controller>
+  <CompressSWF>1</CompressSWF>
+  <SSWFStyle>0</SSWFStyle>
+  <NuevoStyle>5</NuevoStyle>
+  <SwfStartScreenText></SwfStartScreenText>
+  <SwfStartCustomThumbnail>First frame</SwfStartCustomThumbnail>
+  <SwfStartCustomThumbScale>45</SwfStartCustomThumbScale>
+  <SwfStartColor>0x001A1A1A</SwfStartColor>
+  <SwfStartScreenShow>0</SwfStartScreenShow>
+  <SwfEndScreenShow>1</SwfEndScreenShow>
+  <SwfLoopAtEnd>0</SwfLoopAtEnd>
+  <SwfAutoHideControls>1</SwfAutoHideControls>
+  <SwfUseExternalConfig>0</SwfUseExternalConfig>
+  <SwfTransparencyScale>100</SwfTransparencyScale>
+  <SwfAboutBoxWidth>336</SwfAboutBoxWidth>
+  <SwfAboutBoxHeight>270</SwfAboutBoxHeight>
+  <SwfInitialVolume>100</SwfInitialVolume>
+  <SwfBrandContextMenu>0</SwfBrandContextMenu>
+  <SwfHTMLPauseAtStart>1</SwfHTMLPauseAtStart>
+  <TakeQuizNowButtonText>Take Quiz Now</TakeQuizNowButtonText>
+  <AllowReplayLastSection>1</AllowReplayLastSection>
+  <ReplayLastSectionButtonText>Replay Last Section</ReplayLastSectionButtonText>
+  <ViewAnswersButtonText>View Answers</ViewAnswersButtonText>
+  <ContinueVideoButtonText>Continue</ContinueVideoButtonText>
+  <PreviousVideoButtonText>Previous</PreviousVideoButtonText>
+  <NextVideoButtonText>Next</NextVideoButtonText>
+  <SubmitAnswersVideoButtonText>Submit Answers</SubmitAnswersVideoButtonText>
+  <SwfPausePlaybackAfterJump>1</SwfPausePlaybackAfterJump>
+  <SwfGetURLFunction>0</SwfGetURLFunction>
+  <SwfControllerSkinName>glass</SwfControllerSkinName>
+  <JPEGThreshold>900</JPEGThreshold>
+  <LegacySWFOutput>0</LegacySWFOutput>
+  <MOVOptions>AAAAAAAAAAAAAAAAAAAEiXNlYW4AAAABAAAABgAAAAAAAAIjdmlkZQAAAAEAAAAQAAAAAAAAACJz
+cHRsAAAAAQAAAAAAAAAAYXZjMQAAAAAAGAAAAwAAAAAgdHBybAAAAAEAAAAAAAAAAAAAAgAAAAAA
+AAAAAAAAACRkcmF0AAAAAQAAAAAAAAAAAAAAAP//gAAAAAEAAAABAAAAABVtcHNvAAAAAQAAAAAA
+AAAAAAAAABhtZnJhAAAAAQAAAAAAAAAAAAAAAAAAABhwc2ZyAAAAAQAAAAAAAAAAAAAAAAAAABVi
+ZnJhAAAAAQAAAAAAAAAAAQAAABZtcGVzAAAAAQAAAAAAAAAAAAAAAAAoaGFyZAAAAAEAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFmVuZHMAAAABAAAAAAAAAAAAAAAAABZjZmxnAAAAAQAA
+AAAAAAAAAEQAAAAYY21mcgAAAAEAAAAAAAAAAGFwcGwAAAAUY2x1dAAAAAEAAAAAAAAAAAAAABx2
+ZXJzAAAAAQAAAAAAAAAAAAMAHAABAAAAAACIZWZmZQAAAAIAAAABAAAAAAAAAHRmeGZ4AAAAAQAA
+AAQAAAAAAAAAHHJlY3QAAAABAAAAAAAAAAAA6AGOAi4DcQAAABhzcGxpAAAAAQAAAAAAAAAAAAAA
+AAAAABhzcGxpAAAAAgAAAAAAAAAAAAAAAAAAABR0d2lzAAAAAQAAAAAAAAAAAAAAFXRybmMAAAAB
+AAAAAAAAAAAAAAAA1mlzaXoAAAABAAAABwAAAAAAAAAYaXdkdAAAAAEAAAAAAAAAAAAAAAAAAAAY
+aWhndAAAAAEAAAAAAAAAAAAAAAAAAAA0Y2xhcAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAHHBhc3AAAAABAAAAAAAAAAAAAAAAAAAAAAAAABhzY2FtAAAAAQAA
+AAAAAAAAAAAAAAAAABVkaW50AAAAAQAAAAAAAAAAAAAAABV1ZW5mAAAAAQAAAAAAAAAAAAAAARNz
+b3VuAAAAAQAAAAYAAAAAAAAAGHNzY3QAAAABAAAAAAAAAABtcDRhAAAAGHNzcnQAAAABAAAAAAAA
+AACsRAAAAAAAFnNzc3MAAAABAAAAAAAAAAAAEAAAABZzc2NjAAAAAQAAAAAAAAAAAAEAAACHY2Rl
+YwAAAAEAAAAAAAAAAAAAAAxmcm1hbXA0YQAAAAxtcDRhAAAAAAAAADNlc2RzAAAAAAOAgIAiAAAA
+BICAgBRAFQAYAAAA+gAAAPoABYCAgAISCAaAgIABAgAAAAxzcmNxQAAAAAAAAAxhY2JmAAAAAAAA
+AAgAAAAAAAAAADCAHYgAAAAcdmVycwAAAAEAAAAAAAAAAAADABQAAQAAAAAAFWVudmkAAAABAAAA
+AAAAAAABAAAAFWVuc28AAAABAAAAAAAAAAABAAAAP3NhdmUAAAABAAAAAgAAAAAAAAAVZmFzdAAA
+AAEAAAAAAAAAAAEAAAAWc3N0eQAAAAEAAAAAAAAAAAAB</MOVOptions>
+  <QTVideoCodecName>H.264</QTVideoCodecName>
+  <QtCodecType>0x61766331</QtCodecType>
+  <QtDepth>24</QtDepth>
+  <QtSpatialQuality>0x00000300</QtSpatialQuality>
+  <QtTemporalQuality>0x00000200</QtTemporalQuality>
+  <QtFrameRate>0</QtFrameRate>
+  <QtKeyframeRate>0</QtKeyframeRate>
+  <QtDataRate>0</QtDataRate>
+  <QtMinSpatialQuality>0x00000100</QtMinSpatialQuality>
+  <QtMinTemporalQuality>0x00000100</QtMinTemporalQuality>
+  <QTAudioCodecName>MPEG-4 Audio</QTAudioCodecName>
+  <QtAudioSampleRate>-1404829696</QtAudioSampleRate>
+  <QtAudioSampleSize>16</QtAudioSampleSize>
+  <QtAudioNumChannels>1</QtAudioNumChannels>
+  <QtAudioCodecType>0x6D703461</QtAudioCodecType>
+  <QtEncodeAudio>1</QtEncodeAudio>
+  <WMProfile>Camtasia Studio Best Quality and File Size (Recommended)</WMProfile>
+  <WMIndexerOn>1</WMIndexerOn>
+  <WMDefaultProfile>1</WMDefaultProfile>
+  <MP4VideoProfile>1</MP4VideoProfile>
+  <MP4VideoLevel>31</MP4VideoLevel>
+  <MP4VideoBitRateMode>1</MP4VideoBitRateMode>
+  <MP4VideoBitRateAvg>819200</MP4VideoBitRateAvg>
+  <MP4VideoQuality>50</MP4VideoQuality>
+  <MP4VideoKeyframeRate>5</MP4VideoKeyframeRate>
+  <MP4VideoMaxBFrames>0</MP4VideoMaxBFrames>
+  <MP4VideoMaxWidth>1280</MP4VideoMaxWidth>
+  <MP4VideoMaxHeight>720</MP4VideoMaxHeight>
+  <MP4AudioBitRateAverage>18</MP4AudioBitRateAverage>
+  <HTMLOutput>1</HTMLOutput>
+  <ViewerIdentAnon>0</ViewerIdentAnon>
+  <CreateMediaDir>1</CreateMediaDir>
+  <CreateSWFMediaDir>0</CreateSWFMediaDir>
+  <QuizReportingSCORM>0</QuizReportingSCORM>
+  <QuizReportingTSCAPI>1</QuizReportingTSCAPI>
+  <SCORMPackage>2</SCORMPackage>
+  <EMailReceipt></EMailReceipt>
+  <ManifestID>ID-0A995EC0-F994-44EE-B5EF-496B1973E84D</ManifestID>
+  <ManifestTitle></ManifestTitle>
+  <ManifestDesc></ManifestDesc>
+  <ManifestSubject></ManifestSubject>
+  <SCOTitle></SCOTitle>
+  <ManifestLanguage>en</ManifestLanguage>
+  <HostingKey></HostingKey>
+  <QuizPassing>80</QuizPassing>
+  <CompletePercentage>100</CompletePercentage>
+  <HTMLController>1</HTMLController>
+  <HTMLAutoPlay>1</HTMLAutoPlay>
+  <WriteIndex>1</WriteIndex>
+  <WriteMultipleFiles>0</WriteMultipleFiles>
+  <ShortenIndexNames>1</ShortenIndexNames>
+  <ShortenedIndexLength>17</ShortenedIndexLength>
+  <NumberIndexMarkers>0</NumberIndexMarkers>
+  <HTMLTitle>Created by Camtasia Studio 8</HTMLTitle>
+  <HTMLTemplateName>Default</HTMLTemplateName>
+  <EmbedSize>4</EmbedSize>
+  <EmbedWidth>640</EmbedWidth>
+  <EmbedHeight>480</EmbedHeight>
+  <TOCInitiallyVisible>0</TOCInitiallyVisible>
+  <WriteSearchMaterial>1</WriteSearchMaterial>
+  <WriteQuizMaterial>1</WriteQuizMaterial>
+  <Path>2</Path>
+  <LastPathChosen>4</LastPathChosen>
+  <Distribution>5</Distribution>
+  <OutputFileName>Untitled.avi</OutputFileName>
+  <AdvMovieSize>3</AdvMovieSize>
+  <Connection>1</Connection>
+  <RecommendedFormat>14</RecommendedFormat>
+  <ScreenCaptureContent>1</ScreenCaptureContent>
+  <RealWorldContent>0</RealWorldContent>
+  <PowerPointContent>0</PowerPointContent>
+  <MicAudioContent>0</MicAudioContent>
+  <MusicAudioContent>0</MusicAudioContent>
+  <VideoQualitySlider>4</VideoQualitySlider>
+  <AudioQualitySlider>4</AudioQualitySlider>
+  <UsePresetOptions>0</UsePresetOptions>
+  <WhyRecommendFormat></WhyRecommendFormat>
+  <WhyRecommendVideoSettings></WhyRecommendVideoSettings>
+  <WhyRecommendAudioSettings></WhyRecommendAudioSettings>
+  <UsedRecommendation>1</UsedRecommendation>
+  <WebOpenProdFolder>1</WebOpenProdFolder>
+  <WebZip>0</WebZip>
+  <Web3rdPartyHosting>0</Web3rdPartyHosting>
+  <EmailOpenProdFolder>0</EmailOpenProdFolder>
+  <CDOpenProdFolder>1</CDOpenProdFolder>
+  <CDAddToMenuMaker>0</CDAddToMenuMaker>
+  <DVDOpenProdFolder>0</DVDOpenProdFolder>
+  <IPODOpenProdFolder>1</IPODOpenProdFolder>
+  <HardDriveOpenProdFolder>0</HardDriveOpenProdFolder>
+  <FlashSizePrevTemplate>0</FlashSizePrevTemplate>
+  <FlashSizePresetWidth>-1</FlashSizePresetWidth>
+  <FlashSizePresetHeight>-1</FlashSizePresetHeight>
+  <FlashSizeActualTotalWidth>0</FlashSizeActualTotalWidth>
+  <FlashSizeActualTotalHeight>0</FlashSizeActualTotalHeight>
+  <IPOD3rdPartyHosting>0</IPOD3rdPartyHosting>
+  <GifBitsPixel>0</GifBitsPixel>
+  <GifFRRate>0x00000000</GifFRRate>
+  <GifFRScale>0x00000001</GifFRScale>
+  <GifFRTime>0x00000001</GifFRTime>
+  <GifIterations>0</GifIterations>
+  <GifOptimizedPalette>1</GifOptimizedPalette>
+  <GifWindowsColors>1</GifWindowsColors>
+  <GifDither>0</GifDither>
+  <ProfileImage>iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlz
+AAAOwgAADsIBFShKgAAABARJREFUSEvtVdlLo3cUjTtiXFAURUVR0Iq7ouK+Lxi1itGMojGZGDVa
+ad3FfV8rLghWVMSKsepEh6YPglWRmmoGO+0MMw99KPQfCaffvRIZ22mnD/M4P7jwkXy/e88959z7
+iT6dD57m5mZxVVWVQSqVmoTAx4jCwkJTZGTkz+7u7mJRRUXF7ezsLM7Pz2E0Gjlubm5gMBhwdXWF
+i4sLnJ6eQq/X4+TkBIeHh9jd3cX29jbW19exurqKxcVFUI6JiQmMjo6ir68PjY2NCA0NNYqKi4tN
+l5eXODs7g06nw8HBAfb29h4S0KWxsTEMDw/zxfb2dmg0GiiVSgido6ysDBKJBDk5OUhLS0NiYiJk
+Mhk6OztRUFBgEpWUlOD29hZHR0fY39/Hzs4ONjc3GdnCwgLkcjm+GpChrq4ODQ0NqK+vR21tLYTO
+IYBDXl4eMjIykJycjISEBMTGxiI6OhpdXV0oLy8HF7i+vua2t7a2sLa2hqWlJczMzGBkZASlpaXY
+f6HAgrYK0icSTlpUVIT8/HxOnJSUhLi4OMTExCAkJAT+/v7w8vKCQqFAeno6iCLmmehYWVnB3Nwc
+xsfH0d/fz3RQ+4d3Ko49gxKaXgknJSqioqLg5+cHFxcXWFlZQfAMh4WFBSorK7moiBKQiETH5OQk
+BgcHub2WlhaoVCpkZWVB91L9EEe/PMXkTiECPnOHtbU1JzMnprC0tISNjQ2qq6vvCwiWwvHxMYvY
+09OD1tZWqNVq1NTUsOUI6fPXGuh+q4f2ToZvX3zOsflTEUqUQbC2sXxATV3Y2dnBwcGBNeMCgtLQ
+arVoa2tDU1MT/0EuIG1yc3MRHh6OZ6/q8N2vsvfGl1MZcHJyYtT29vb87ObmxiC5AIm1sbHxYDsS
+lX4jgUg0QnP8Rv6POHhZi/6vnyA7OxsBAQH8Hmnh4eEBHx8fppgLEMrl5WW2FNGVmZnJdvP19YWz
+szMj0/+ufhTf6BWQq6RITU3l98yoyT0kelBQEBuEC9CATE9PMxLyMlEijDjEYjHzSaKd/vEFx/dv
+m9E3I+cOw8LC4Orq+gg1dUJdk7t6e3vvCxDigYEB9nJwcDBfIC4JudkhP/7Zho0fmlAtL2eLent7
+vxc1FaVBI2MMDQ3dF6Bh6ejoQGBgIBwdHRn1u56m58qnaSw4oSMA/4Y6Pj4eKSkpbG1aMVyA9gft
+FhLpXdTmsLW15YSenp4fRE3GICCkJS0/LiAIaiL3CJvvUeK/+/r/oCbL0xohB9HQCrSbRAI1N6QD
+bUXzPqdFRrNA00iLjSxMvqZOaRDJId3d3bxdiWvatlNTU4x6fn6e6aG7QmGjiD4KQpG7iIgIE7X0
+MYKQCxa+EygTC2x8Ov91RKK/AHX+QeP+jv2xAAAAAElFTkSuQmCC</ProfileImage>
+</ConfigArchive>
